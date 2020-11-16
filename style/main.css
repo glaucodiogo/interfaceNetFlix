@@ -1,6 +1,6 @@
 :root{
-    --vermelho:
-    --preta:
+    --vermelho: #E50914;
+    --preta: #141414;
 }
 
 *{
@@ -10,7 +10,7 @@
 }
 
 body{
-
+    background: var(--preta);
 }
 
 header .container{
